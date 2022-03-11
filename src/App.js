@@ -12,7 +12,15 @@ function App() {
         <Dictionary />
       </main>
       <footer className="text-center">
-        Coded by Isobelle Joyce
+        This project was coded by Isobelle Joyce{" "}
+          and is{" "}
+          <a
+            href="https://github.com/isobelleanna/dictionary-app"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
+            open-sourced on GitHub
+          </a>{" "}
       </footer>
       </div>
     </div>
