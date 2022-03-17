@@ -1,3 +1,10 @@
 .Dictionary {
-  background-color: lightcyan;
+  max-width: 700px;
+  padding: 10px 5px 10px 45px;
+}
+
+.Dictionary input {
+  width: 105%;
+  padding: 6px 4px;
+  border: 1px solid #ddd;
 }
